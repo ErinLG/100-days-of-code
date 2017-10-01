@@ -6,13 +6,15 @@
 
 * Completed Codecademy's Learn Java
 * Continued working through The Odin Project's HTML and CSS Basics (Web Development 101 - The Front End)
+* Created an animated Android logo using CSS with The Code Player tutorial.
 
-**Thoughts:** Love learning!
+**Thoughts:** Love learning! The Android logo was fun!
 
 **Link to Code:** 
 
 * [Codecademy](https://www.codecademy.com/)
 * [TheOdinProject](https://www.theodinproject.com/)
+* [Android Logo](https://github.com/ErinLG/100-days-of-code/tree/day2/TheOdinProject/AndroidLogo)
 
 ### Day 1: 29 September 2017
 
