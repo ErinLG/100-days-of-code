@@ -13,6 +13,7 @@
 
 1. [FreeCodeCamp](https://www.freecodecamp.org/)
 2. [Codecademy](https://www.codecademy.com/)
+3. [The Odin Project](https://www.theodinproject.com/)
 
 ### Books
 
