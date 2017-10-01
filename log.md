@@ -7,9 +7,12 @@
 * Completed Codecademy's Learn Java
 * Continued working through The Odin Project's HTML and CSS Basics (Web Development 101 - The Front End)
 
-**Thoughts:** none
+**Thoughts:** Love learning!
 
-**Link to Code:** none
+**Link to Code:** 
+
+* [Codecademy](https://www.codecademy.com/)
+* [TheOdinProject](https://www.theodinproject.com/)
 
 ### Day 1: 29 September 2017
 
@@ -20,4 +23,14 @@
 
 **Thoughts:** I wish the dog in the apartment below me would stop barking.
 
-**Link to Code:** none
+**Link to Code:**
+
+* [GitHub 100-days-of-code repository](https://github.com/ErinLG/100-days-of-code/)
+* [Codecademy](https://www.codecademy.com/)
+
+### Contents
+
+* [Rules](rules.md)
+* [Log - click here to see my progress](log.md)
+* [FAQ](faq.md)
+* [Resources](resources.md)
