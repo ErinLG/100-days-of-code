@@ -1,12 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 3: 1 October 2017
+
+**Today's Progress:** Worked on Google homepage project (The Odin Project)
+
+**Thoughts:** There is more that goes into the Google homepage than I ever imagined!
+
+**Link to Code:** Will update link once I commit the code
+
 ### Day 2: 30 September 2017
 
 **Today's Progress:**
 
 * Completed Codecademy's Learn Java
 * Continued working through The Odin Project's HTML and CSS Basics (Web Development 101 - The Front End)
-* Created an animated Android logo using CSS with The Code Player tutorial.
+* Created an animated Android logo using CSS with The Code Player tutorial
 
 **Thoughts:** Love learning! The Android logo was fun!
 
