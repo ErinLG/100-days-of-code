@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 4: 2 October 2017
+
+**Today's Progress:** Not much progress.  Worked on Algorithm's programming assignment
+
+**Thoughts:** 
+
+* Homework comes first!
+* I need to work on time management if I want to progress
+
+**Link to Code:** Will update once I commit the code
+
 ### Day 3: 1 October 2017
 
 **Today's Progress:** Worked on Google homepage project (The Odin Project)
