@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 5: 3 October 2017
+
+**Today's Progress:** Worked on the Google homepage project (The Odin Project)...still did not finish
+
+**Thoughts:** I really need to work on being more productive during these coding sessions.
+
+**Link to Code:** Will update once I commit the code
+
 ### Day 4: 2 October 2017
 
 **Today's Progress:** Not much progress.  Worked on Algorithm's programming assignment
