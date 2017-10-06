@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: 5 October 2017
+
+**Today's Progress:** Worked on the Google homepage project a little more
+
+**Thoughts:** Slow progress!
+
+**Link to Code:** Will update once I commit the code
+
 ### Day 5: 3 October 2017
 
 **Today's Progress:** Worked on the Google homepage project (The Odin Project)...still did not finish
